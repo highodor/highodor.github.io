@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -81,3 +82,5 @@ permalink: /:categories/:title/
 paginate: 5 # 첫 페이지에보여줄 최근 게시물 수를 지정
 paginate_path: /page:num/
 timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+theme: jekyll-theme-minimal
